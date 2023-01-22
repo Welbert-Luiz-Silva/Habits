@@ -39,7 +39,7 @@ O Habits é um programa de gestão de hábitos dos usuários.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/rwsnrwpDRg5czmbBHxoEl5/Habits-(e)-(Community)?node-id=75%3A567&t=n7ShHMbaUxNTwtZP-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/rwsnrwpDRg5czmbBHxoEl5/Habits-(e)-(Community)?node-id=75%3A567&t=n7ShHMbaUxNTwtZP-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
